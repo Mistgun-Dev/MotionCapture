@@ -1,0 +1,173 @@
+INFO - Demarrage du Programme ! 
+INFO - Fichier de log cree avec succes ! 
+INFO - ------- CHARGEMENT DU PROGRAMMEEEEE ---------
+INFO - Librairies OpenNI initialisee avec succes ! 
+INFO - Recherche d'une camera Kinect en cours ... 
+INFO - Camera Kinect initialisee avec succes ! 
+INFO - Librairies NITE initialisees avec succes ! 
+INFO - Librairies OpenGL initialisees avec succes !
+INFO - Chargement des effest sonores !
+INFO - Initialisation de la Skybox reussie !
+INFO - Modele 3D FBX charger avec succes !
+INFO - Noms des noeuds du squelette du FBX charger avec succes !
+INFO - Initialisation du menu reussie !
+INFO - Modele 3D FBX charger avec succes !
+INFO - Modele 3D FBX charger avec succes !
+INFO - Lancement du Jeux d'avion !
+INFO - Lancement du mode Avatar Motion capture !
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - Destruction du contexte FBX : ID 0
+INFO - Modele 3D FBX charger avec succes !
+INFO - Noms des noeuds du squelette du FBX charger avec succes !
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - Destruction du contexte FBX : ID 1
+INFO - Modele 3D FBX charger avec succes !
+INFO - Noms des noeuds du squelette du FBX charger avec succes !
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - [NEXT] Chargement du modele suivant ! 
+INFO - ------- FIN DU PROGRAMMEEEEE ---------
+INFO - Destruction du contexte NITE !
+INFO - Destruction du contexte OPENNI !
+INFO - Fermeture de la Kinect !
+INFO - Destruction du Menu !
+INFO - Liberation du mode jeu !
+INFO - Destruction du contexte FBX : ID 2
+INFO - Destruction du contexte FBX : ID 3
+INFO - Liberation du mode Motion Capture !
+INFO - Destruction du contexte FBX : ID 4
+INFO - Destruction du Logger !
+INFO - Fermeture de l'application !
