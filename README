@@ -28,20 +28,11 @@ Le chemin d'accès au dossier FBX SDK est a renseigner dans le Makefile à l'end
 
 ----- PROGRAMMES EXTERNES ------------------
 
-Dans le cadre de ce projet, le Loader de FBX de Vincent Boyer a été utilisé.
+Le Loader de FBX de Vincent Boyer a été utilisé pour la réalisation de ce programme.
 Nous le remercions particulièrement pour son travail qui nous a beaucoup aidés notre notre avancement.
 
 FBX Loader : http://www.ai.univ-paris8.fr/~boyer/OpenGL/master1/index.htm
 (Section Programme 2014/2015)
-
------ CODE SOURCE (APPORTS PERSONNEL ET APPORTS EXTERNES) ----------------------
-
-Parmis nos apports personnel, le dossier src a été intégralement programmé par nous mêmes.
-Le dossier FBXLoader contient un fichier "DrawScene.cpp" dans lequel nous avons ajouté les deux premières fonctions permettant la transformation des noeuds d'un modèle FBX. Le reste du code source du Loader constitue l'apport de Vincent Boyer.
-
-La fonction de calcul trigonométrique d'un angle présente dans le fichier src/JointCoordinates.h a été inspiré d'un procédé existant trouvé sur Internet.
-
-
 
 
 ------- FONCTIONALITEES ET DESCRIPTION DU PROGRAMME --------------------
